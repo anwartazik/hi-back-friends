@@ -1,0 +1,15 @@
+# bikin file baru
+echo "Mulai test commit" > test.txt
+git add .
+git commit -m "Commit 1"
+
+# loop bikin commit sampai 10
+for i in {2..10}
+do
+  echo "Commit $i" >> test.txt
+  git add .
+  git commit -m "Commit $i"
+done
+
+# push semua commit ke repo
+git push
