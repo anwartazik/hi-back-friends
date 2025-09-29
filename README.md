@@ -32,6 +32,3 @@
 24  git add .
 25  git commit -m "Commit 8"
 
-26  echo "line 9" >> test.txt
-27  git add .
-28  git commit -m "Commit 9"
