@@ -12,9 +12,3 @@
  9  git add .
 10  git commit -m "Commit 3"
 
-11  echo "line 4" >> test.txt
-12  git add .
-13  git commit -m "Commit 4"
-
-
-
