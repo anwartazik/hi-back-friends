@@ -37,4 +37,3 @@
 28  git commit -m "Commit 9"
 
 29  echo "line 10" >> test.txt
-30  git add .
