@@ -1,0 +1,3 @@
+echo "How are you" >> test.txt
+ 6  git add .
+ 7  git commit -m "Commit 2"
