@@ -8,7 +8,4 @@
  6  git add .
  7  git commit -m "Commit 2"
 
- 8  echo "what your name" >> test.txt
- 9  git add .
-10  git commit -m "Commit 3"
-
+ 
