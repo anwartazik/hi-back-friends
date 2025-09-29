@@ -38,4 +38,3 @@
 
 29  echo "line 10" >> test.txt
 30  git add .
-31  git commit -m "Commit 10"
